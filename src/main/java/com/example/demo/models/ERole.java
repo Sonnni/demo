@@ -1,7 +1,7 @@
 package com.example.demo.models;
 
 public enum ERole {
-    //teacher = admin
+    //teacher = admin, moderator
 
     ROLE_TEACHER,
     //parent = user
